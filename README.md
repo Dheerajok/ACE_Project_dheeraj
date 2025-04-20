@@ -5,11 +5,6 @@ this C program allows users to calculate the area and circumference of -
 - rectangles
 - triangles
 
-features
-- modular design using functions
-- input validation for dimensions
-- triangle validity check using the triangle inequality theorem
-
 how to compile and run
 
  requirements
